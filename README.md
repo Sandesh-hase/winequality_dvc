@@ -38,7 +38,11 @@ git add .
 ```bash
 git commit - "first commit"
 ```
-
+```bash
+gt remote add origin https://gitub.com/Sandesh-hase/winequality_dvc.git
+git branch -M main
+git push origin main
+```
 
 
 
